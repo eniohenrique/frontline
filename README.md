@@ -1,2 +1,2 @@
-# https://eniohenrique.github.io/frontline/index.html
+# https://eniohenrique.github.io/frontline
 Front Line Education
