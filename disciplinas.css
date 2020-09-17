@@ -1,7 +1,5 @@
 body{
-    background:black
+	color:white;
+	background: black;
 }
-P.branco{
-    color:white;
-    text-align:left;
-    font-family: "courier New", 'courier', 'monospace';
+
